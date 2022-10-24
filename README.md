@@ -13,7 +13,7 @@ it's influence in the behaviour of the society.
 - 🌱 I’m currently learning JS full-stack to bring my skills in the language to another level.
 - 💞️ I’m looking to collaborate on projects where I can work as a JS developer, today I am focused in Front-end side.
 - 📫 How to reach me? [![Linkedin Badge](https://img.shields.io/badge/-camiloyule-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/camilo-yule-developer), also my
-   [resume](https://github.com/camiloyule/camiloyule/blob/34a39205600a90bd841ad4a0ca4992aa215e1f6c/CamiloYuleCV.pdf).
+   [resume](https://github.com/camiloyule/camiloyule/blob/ead8b81809f817f8ef8fc0835594ce2c9816bc0f/CamiloYuleCV.pdf).
 
 <div align="center">
   <img src="https://media.giphy.com/media/YuKbGGIYMXemhnub3q/giphy.gif" width="200"/>
