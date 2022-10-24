@@ -11,7 +11,7 @@ it's influence in the behaviour of the society.
 - 👀 I’m interested in expand my knoledge related with JS technologies for my next step.
 - 🌱 I’m currently learning JS full-stack to bring my skills in the language to another level.
 - 💞️ I’m looking to collaborate on projects where I can work as a JS developer, today I am focused in Front-end side.
-- 📫 How to reach me?, more info, experience, contact data in my [resume][https://github.com/camiloyule/camiloyule/blob/34a39205600a90bd841ad4a0ca4992aa215e1f6c/CamiloYuleCV.pdf]
+- 📫 How to reach me?, more info, experience, contact data in my [resume][https://github.com/camiloyule/camiloyule/blob/34a39205600a90bd841ad4a0ca4992aa215e1f6c/CamiloYuleCV.pdf].
 
 <!---
 camiloyule/camiloyule is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
