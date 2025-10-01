@@ -1,5 +1,5 @@
 
-# 👋 Hi, I’m @camiloyule -- FULL STACK DEVELOPER -- JS | C# 
+# 👋 Hi, I’m @camiloyule -- FULL STACK DEVELOPER -- JS | C# | TS | Python
 
 From 2016 I have been working in different projects using Javascript, as a front-end developer. Furthermore, I implemented technologies such as PHP, and C#
 backend-side. I am also proficient using SQL (since 2014), experienced with linux and windows servers. My goal is grow as a professional, reach a high señority level 
